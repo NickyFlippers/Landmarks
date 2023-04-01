@@ -31,7 +31,7 @@ struct MapView: View {
     }
 }
     
-// MARK: MARK THIS
+
     
     struct MapView_Previews: PreviewProvider {
         static var previews: some View {
